@@ -2,24 +2,23 @@
 # Site
 
 title: Fur
-url: "http://turquoise-rook.cloudvent.net/"
-baseurl:
+url: "http://benhu.me"
+baseurl: "/flowers"
 google_analytics_key:
-google_maps_javascript_api_key:
-snipcart_key: "NWNjOWZhYjctYmE1ZS00MDM3LThkNjUtZmE5M2NiMTU1NzAwNjM2MjYzNTE1MzM5ODg1ODkw"
+google_maps_javascript_api_key: "AIzaSyBBO6CBnKm2ItSfglKwZ7Ffj29NYL00edo"
+snipcart_key: "NjJmMjM3NDUtNzAzZS00MDc2LThkNzQtMzVlYTg3N2RjMTY1NjM2Njk2MjY4MzI4MDU1NDI1"
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Fur t-shirt store
+description: Flower bouquet arrangement website
 author:
-  name: fur
-  email: fur@example.com
-  twitter: fur # twitter username without the @ symbol
-  phone: "+1 23456789"
+  name: ben
+  email: ben@benhu.me
+  twitter: floralpower # twitter username without the @ symbol
+  phone: "+11234567890"
 social:
-  name: Fur Template
+  name: Flower Power
   links:
-    - https://github.com/CloudCannon/fur-jekyll-template
 
 # -----
 # Build
@@ -64,7 +63,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - LICENCE
+  - LICENSE
 
 # -----------
 # CloudCannon

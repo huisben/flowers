@@ -5,11 +5,10 @@ price:
 sku:
 description:
 sizes:
-  - XS
-  - Small
-  - Medium
-  - Large
-  - XL
+  - Bouquet
+  - Centerpiece
+  - Boutonniere
+  - Corsage
 styles:
   - name:
     color:

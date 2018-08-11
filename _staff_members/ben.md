@@ -1,4 +1,4 @@
 ---
-name: Ava Sandler
+name: Ben Hu
 image_path: https://unsplash.it/600/800?image=1062
 ---
