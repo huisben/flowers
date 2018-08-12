@@ -1,9 +1,9 @@
 # ----
 # Site
 
-title: Fur
-url: "http://benhu.me"
-baseurl: "/flowers"
+title: Flowers
+url: "http://benhu.me/flowers"
+baseurl: ""
 google_analytics_key:
 google_maps_javascript_api_key: "AIzaSyBBO6CBnKm2ItSfglKwZ7Ffj29NYL00edo"
 snipcart_key: "NjJmMjM3NDUtNzAzZS00MDc2LThkNzQtMzVlYTg3N2RjMTY1NjM2Njk2MjY4MzI4MDU1NDI1"

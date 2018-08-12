@@ -9,5 +9,5 @@ stock: 10
 styles:
   - name: Bouquet
     color: '#000000'
-    image: /images/products/tiger/bouquet.jpg
+    image: /images/products/tiger_lilies/bouquet.jpg
 ---
